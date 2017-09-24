@@ -1,6 +1,6 @@
-# LinkedInBuddy
+# LinkedIn Spreadsheet
 
-Your personal Assistant for Linkedin
+Chrome extension that extend LinkedIn with spreadsheet functionality.
 
 ## Installation
 
@@ -68,9 +68,5 @@ if(process.env.NODE_ENV === 'development'){
   console.log('We are in development mode!');
 }
 ```
-
-
-
-
 
 
